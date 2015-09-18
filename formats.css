@@ -2,6 +2,8 @@
 
 body {
     background-color: #1352a2;
+    max-width: 960px;
+    margin: 0 auto;
 }
 
 body#dog {
@@ -40,15 +42,17 @@ p#red {
 
 .navbar {
     float: center;
-    padding: 0px;
+    padding: 5px;
+    display: block;
+    background-color: #ffd464
 }
 
 .navbar ul {
     list-style-type: none;
-    margin: 0;
+    margin: 5px;
     padding: 0;
 }
-
+/*
 .navbar a {
     display: block;
     width: 80px;
@@ -58,7 +62,11 @@ p#red {
     font-weight: bold;
     background-color: #ffd464;
 }
-
+*/
 .navbar li {
-    float: left;   
+    display: inline;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-style: bold;
+    font-color: #000000;
 }
