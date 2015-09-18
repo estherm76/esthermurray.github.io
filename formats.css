@@ -52,14 +52,13 @@ p#red {
 
 .navbar a {
     display: block;
-    width: 60px;
+    width: 160px;
     font-family: "Cambria", serif;
     font-size: 1em;
     font-color: #000000;
     font-weight: bold;
 }
 
-/*.navbar li {
+.navbar li {
     float: left;   
 }
-*/
