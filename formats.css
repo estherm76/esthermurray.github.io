@@ -23,6 +23,10 @@ h2 {
     font-family: "Arial", sans-serif;
 }
 
+h2#reed {
+    color: red;
+}
+
 p {
     font-size: 1em;
     font-family: "Comic sans", sans-serif;
