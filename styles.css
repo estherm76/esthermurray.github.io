@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+    font-size: 100%;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: black;
+    font-family: "Georgia", serif;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: left;
+    font-family: cursive;
+}
+
+p {
+    font-size: .75em;
+    font-family: "Comic Sans", sans-serif;
+}
+
+.navbar {
+    float: center;
+    padding: 5px;
+    display: block;
+    background-color: gold;
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+
+.navbar li {
+    display: inline;
+    font-family: "Courier New", serif;
+    font-size: 1em;
+}
