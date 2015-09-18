@@ -5,21 +5,21 @@ body {
     background-image: radial-gradient();
 }
 
-body.dog {
-    background-image: 
+body#dog {
+    background-image: url("sally.jpg");
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     color: black;
     font-family: "Georgia", serif;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: left;
-    font-family: cursive;
+    font-family: "Arial";
 }
 
 p {
@@ -27,15 +27,29 @@ p {
     font-family: "Comic Sans", sans-serif;
 }
 
+p#01 {
+    font-family: "Arial", serif;
+    text-align: center;
+    font-size: .75em;
+}
+
+p#red {
+    color: red;
+}
+
 .navbar {
     float: center;
-    padding: 5px;
+    padding: 10px;
     display: block;
     background-color: gold;
 }
 
 .navbar ul {
     list-style-type: none;
+}
+
+.navbar a {
+    width: 60px;
 }
 
 .navbar li {
