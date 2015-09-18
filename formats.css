@@ -52,12 +52,12 @@ p#red {
 
 .navbar a {
     display: block;
+    display: inline;
+    width: 60px;
 }
 
 .navbar li {
     float: left;
-    display: inline;
-    width: 60px;
     font-family: "Cambria", serif;
     font-size: 1em;
     font-color: #000000;
