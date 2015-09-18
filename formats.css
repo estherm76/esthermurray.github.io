@@ -2,7 +2,7 @@
 
 body {
     font-size: 100%;
-    background-color: 1352a2;
+    background-color: #1352a2;
     font-color: white;
 }
 
@@ -13,7 +13,7 @@ body#dog {
 h1 {
     font-size: 2em;
     text-align: center;
-    color: black;
+    color: #ffffff;
     font-family: "Georgia", serif;
 }
 
@@ -42,7 +42,7 @@ p#red {
     float: center;
     padding: 5px;
     display: block;
-    background-color: ffd464;
+    background-color: #ffd464;
 }
 
 .navbar ul {
@@ -57,5 +57,5 @@ p#red {
     display: inline;
     font-family: "Cambria", serif;
     font-size: 1em;
-    font-color: black;
+    font-color: #000000;
 }
