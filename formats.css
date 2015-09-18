@@ -53,13 +53,13 @@ p#red {
 .navbar a {
     display: block;
     width: 60px;
-}
-
-.navbar li {
-    float: left;
     font-family: "Cambria", serif;
     font-size: 1em;
     font-color: #000000;
     font-weight: bold;
-    
 }
+
+/*.navbar li {
+    float: left;   
+}
+*/
