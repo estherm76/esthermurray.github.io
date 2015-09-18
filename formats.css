@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background-color: #dedede;
+    background-image: url("background.jpg");
     max-width: 960px;
     margin: 0 auto;
 }
