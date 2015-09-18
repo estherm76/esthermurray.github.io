@@ -2,11 +2,12 @@
 
 body {
     font-size: 100%;
-    background-image: radial-gradient();
+    background-color: 1352a2;
+    font-color: white;
 }
 
 body#dog {
-    background-image: url("sally.jpg");
+    background-image: url("sally2.jpg");
 }
 
 h1 {
@@ -19,12 +20,12 @@ h1 {
 h2 {
     font-size: 1.5em;
     text-align: left;
-    font-family: "Arial";
+    font-family: "Arial", sans-serif;
 }
 
 p {
     font-size: .75em;
-    font-family: "Comic Sans", sans-serif;
+    font-family: "Comic sans", sans-serif;
 }
 
 p#01 {
@@ -39,9 +40,9 @@ p#red {
 
 .navbar {
     float: center;
-    padding: 10px;
+    padding: 5px;
     display: block;
-    background-color: gold;
+    background-color: ffd464;
 }
 
 .navbar ul {
@@ -54,6 +55,7 @@ p#red {
 
 .navbar li {
     display: inline;
-    font-family: "Courier New", serif;
+    font-family: "Cambria", serif;
     font-size: 1em;
+    font-color: black;
 }
