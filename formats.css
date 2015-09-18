@@ -24,16 +24,16 @@ h2 {
 }
 
 p {
-    font-size: .75em;
+    font-size: 1em;
     font-family: "Comic sans", sans-serif;
-    font-color: #000000;
+    font-color: #ffffff;
 }
 
 p#01 {
     font-family: "Arial", serif;
     text-align: center;
-    font-size: .75em;
-    font-color: #000000;
+    font-size: 1em;
+    font-color: #ffffff;
 }
 
 p#red {
@@ -64,9 +64,11 @@ p#red {
 }
 */
 .navbar li {
-    display: inline;
+    display: inline-block;
+    width: 100px;
+    float: center;
     font-family: "Cambria", serif;
     font-size: 1em;
-    font-style: bold;
+    font-weight: bold;
     font-color: #000000;
 }
