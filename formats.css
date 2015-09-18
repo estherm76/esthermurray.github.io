@@ -39,8 +39,8 @@ p#red {
 }
 
 .navbar {
-    float: center;
-    padding: 0px;
+    /*float: center;
+    padding: 0px;*/
     background-color: #ffd464;
 }
 
