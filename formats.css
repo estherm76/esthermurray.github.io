@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background-color: #1352a2;
+    background-color: #dedede;
     max-width: 960px;
     margin: 0 auto;
 }
@@ -13,7 +13,7 @@ body#dog {
 h1 {
     font-size: 2em;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     font-family: "Georgia", serif;
 }
 
@@ -26,14 +26,12 @@ h2 {
 p {
     font-size: 1em;
     font-family: "Comic sans", sans-serif;
-    font-color: #ffffff;
 }
 
 p#01 {
     font-family: "Arial", serif;
     text-align: center;
     font-size: 1em;
-    font-color: #ffffff;
 }
 
 p#red {
@@ -44,7 +42,7 @@ p#red {
     float: center;
     padding: 5px;
     display: block;
-    background-color: #ffd464
+    background-color: #ffffff;
 }
 
 .navbar ul {
