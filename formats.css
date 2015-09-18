@@ -41,7 +41,6 @@ p#red {
 .navbar {
     /*float: center;
     padding: 0px;*/
-    background-color: #ffd464;
 }
 
 .navbar ul {
@@ -52,11 +51,12 @@ p#red {
 
 .navbar a {
     display: block;
-    width: 160px;
+    width: 80px;
     font-family: "Cambria", serif;
     font-size: 1em;
     font-color: #000000;
     font-weight: bold;
+    background-color: #ffd464;
 }
 
 .navbar li {
