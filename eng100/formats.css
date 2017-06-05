@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+body {
+    background-image: url("background.jpg");
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+body#dog {
+    background-image: url("sally2.jpg");
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #000000;
+    font-family: "Georgia", serif;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: left;
+    font-family: "Arial", sans-serif;
+}
+
+h2#reed {
+    color: red;
+}
+
+p {
+    font-size: 1em;
+    font-family: "Comic sans", sans-serif;
+}
+
+p#01 {
+    font-family: "Arial", serif;
+    text-align: center;
+    font-size: 1em;
+}
+/**/
+p#red {
+    color: red;
+}
+
+.navbar {
+    float: center;
+    padding: 5px;
+    display: block;
+    background-color: #ffffff;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 0;
+}
+/*
+.navbar a {
+    display: block;
+    width: 80px;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-color: #000000;
+    font-weight: bold;
+    background-color: #ffd464;
+}
+*/
+.navbar li {
+    display: inline-block;
+    width: 100px;
+    float: center;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-weight: bold;
+    font-color: #000000;
+}
